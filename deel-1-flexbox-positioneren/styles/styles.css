@@ -1,1 +1,23 @@
 /*Schrijf hier jouw CSS*/
+.opdracht-1 ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.opdracht-2 ul {
+    display: flex;
+;
+}
+
+
+
+
+/*Let op flex-container*/
+.opdracht-3 {
+
+}
+
+/*Let op flex-container*/
+.opdracht-5 {
+
+}
